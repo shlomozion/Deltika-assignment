@@ -1,0 +1,13 @@
+.app {
+  height: 100vh;
+  box-sizing: border-box;
+}
+.banner {
+  display: flex;
+}
+.company-name {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
